@@ -3,8 +3,8 @@ A simple and fast URL shortener built with Node.js, Express, MongoDB, Redis, and
 Create short links instantly and share them with anyone.
 
 🚀 Live Demo
-Frontend: https://linkshort-flame.vercel.app
 
+Frontend URL: https://linkshort-flame.vercel.app
 Backend API: https://linkshort-njru.onrender.com
 
 📌 Features
